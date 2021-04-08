@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3In84wNkDLIRAEE2cRI2Xr5lpSmtNC8KMR5vz9gLP3EO8D5SVpLoUx0W5WmXCzc6EpelaloMUysEkdKZA5ijg==",
+  "dgSpecHash": "sxg4YUT0refdFknXMZTYoF3Eq8MtYk6MSQhsectBlr7FcF5VtBlCND7kw8rp+DxR12JDSINwSPL1uZ7TjwetCQ==",
   "success": true,
-  "projectFilePath": "C:\\AzureBootCamp\\BootCamp\\BootCamp.csproj",
+  "projectFilePath": "/mnt/c/AzureBootCamp/bootcamp/BootCamp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
